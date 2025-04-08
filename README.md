@@ -1,6 +1,6 @@
 # Chest-Xray-Abnormality-Detection
 
-This kaggle competition develops an automated system for detecting abnormalities in chest x-ray images using deep learning. By leveraging bounding box annotations, custom data generators, and transfer learning with state-of-the-art CNN architectures, the system classifies images as "No Finding" (normal) or "Abnormal". An ensemble approach combining EfficientNet, ResNet, and DenseNet based models further enhances the overall performance.
+This kaggle competition on Computer Vision, develops an automated system for detecting abnormalities in chest x-ray images using deep learning. By leveraging bounding box annotations, custom data generators, and transfer learning with state-of-the-art CNN architectures, the system classifies images as "No Finding" (normal) or "Abnormal". An ensemble approach combining EfficientNet, ResNet, and DenseNet based models further enhances the overall performance.
 Achieved highest test accuracy of 77.5%. link to kaggle competition https://www.kaggle.com/competitions/cs604xray/leaderboard?tab=private
 ---
 
